@@ -1,3 +1,2 @@
 # HTR-UAV-Simulation
-Here is possible to find the simulation code for the Hexacopter Tilt-Rotor UAV developed to land and inspect power transmission lines, just in the coupled flight mode.
-To start the simulation, you need to open the file Main.m
+The simulation code for the Hexacopter Tilt-Rotor UAV used to inspect power transmission lines in coupled flight mode is available here. To run the simulation, simply open the Main1.m file. The code is structured in a modular format and includes comments for ease of use. Please note that the code is designed specifically for the coupled flight mode of the HTR UAV as described in the paper. If you wish to simulate the traditional flight mode, you can modify the code accordingly by referring to the paper.
